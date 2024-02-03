@@ -43,37 +43,37 @@
   ],
   "screenshots": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/zkreations/data/dist/images/screenshot1.png",
+      "src": "https://cdn.jsdelivr.net/gh/shases/icono/screenshot1.png",
       "type": "image/png",
       "sizes": "540x720",
       "form_factor": "narrow"
     },
     {
-      "src": "https://cdn.jsdelivr.net/gh/zkreations/data/dist/images/screenshot2.png",
+      "src": "https://cdn.jsdelivr.net/gh/shases/icono/screenshot2.png",
       "type": "image/png",
       "sizes": "540x720",
       "form_factor": "narrow"
     },
     {
-      "src": "https://cdn.jsdelivr.net/gh/zkreations/data/dist/images/screenshot3.png",
+      "src": "https://cdn.jsdelivr.net/gh/shases/icono/screenshot3.png",
       "type": "image/png",
       "sizes": "540x720",
       "form_factor": "narrow"
     },
     {
-      "src": "https://cdn.jsdelivr.net/gh/zkreations/data/dist/images/screenshot4.png",
+      "src": "https://cdn.jsdelivr.net/gh/shases/icono/screenshot4.png",
       "type": "image/png",
       "sizes": "720x540",
       "form_factor": "wide"
     },
     {
-      "src": "https://cdn.jsdelivr.net/gh/zkreations/data/dist/images/screenshot5.png",
+      "src": "https://cdn.jsdelivr.net/gh/shases/icono/screenshot5.png",
       "type": "image/png",
       "sizes": "720x540",
       "form_factor": "wide"
     },
     {
-      "src": "https://cdn.jsdelivr.net/gh/zkreations/data/dist/images/screenshot6.png",
+      "src": "https://cdn.jsdelivr.net/gh/shases/icono/screenshot6.png",
       "type": "image/png",
       "sizes": "720x540",
       "form_factor": "wide"
